@@ -38,7 +38,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           className="text-3xl md:text-4xl lg:text-5xl font-display font-bold text-white text-center leading-tight mb-8 drop-shadow-lg uppercase flex flex-col items-center w-full"
         >
-          <span className="block w-full text-center">GIÁM SÁT VÀ TỐI ƯU SỬ DỤNG NĂNG LƯỢNG</span>
+          <span className="block w-full text-center md:whitespace-nowrap">GIÁM SÁT VÀ TỐI ƯU SỬ DỤNG NĂNG LƯỢNG</span>
           <span className="block w-full text-center mt-2">CHO DOANH NGHIỆP</span>
         </motion.h1>
 
@@ -79,14 +79,14 @@ export function Hero() {
         >
           <div className="flex flex-wrap justify-center gap-3">
             {['Giải pháp EnMS', 'Quản lý năng lượng', 'Giám sát tiêu thụ', 'ISO 50001', 'ESG ready'].map((tag, i) => (
-              <span key={i} className="text-emerald-400 font-mono text-sm tracking-wider border border-emerald-400/30 px-3 py-1 rounded-full bg-emerald-900/20 backdrop-blur-sm">
+              <span key={i} className="text-emerald-400 font-sans text-sm tracking-wider border border-emerald-400/30 px-3 py-1 rounded-full bg-emerald-900/20 backdrop-blur-sm">
                 {tag}
               </span>
             ))}
           </div>
           <div className="flex flex-wrap justify-center gap-3">
             {['IoT công nghiệp', 'IIoT', 'Công trình xanh', 'Kiểm toán năng lượng'].map((tag, i) => (
-              <span key={i + 5} className="text-emerald-400 font-mono text-sm tracking-wider border border-emerald-400/30 px-3 py-1 rounded-full bg-emerald-900/20 backdrop-blur-sm">
+              <span key={i + 5} className="text-emerald-400 font-sans text-sm tracking-wider border border-emerald-400/30 px-3 py-1 rounded-full bg-emerald-900/20 backdrop-blur-sm">
                 {tag}
               </span>
             ))}

@@ -24,11 +24,11 @@ export function CTASection() {
       id="contact"
       className="relative bg-slate-50 dark:bg-slate-900 py-12 md:py-14 transition-colors duration-300 overflow-hidden"
     >
-      <div className="container mx-auto px-4 max-w-5xl" style={{ position: 'relative', zIndex: 1 }}>
+      <div className="container mx-auto px-4 max-w-6xl" style={{ position: 'relative', zIndex: 1 }}>
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
 
           {/* Left Column: Office info & Background Context */}
-          <div className="lg:col-span-6 flex flex-col gap-5">
+          <div className="lg:col-span-5 flex flex-col gap-5">
             <div
               className="float-card-depth spatial-layer-1 group relative rounded-2xl overflow-hidden flex-1 min-h-[300px]"
             >
@@ -47,7 +47,7 @@ export function CTASection() {
           </div>
 
           {/* Right Column: B2B Contact Form */}
-          <div className="lg:col-span-6">
+          <div className="lg:col-span-7">
             <div
               className="bg-white dark:bg-slate-900 border border-slate-200/60 dark:border-slate-800/80 rounded-2xl p-6 md:p-8 flex flex-col justify-center shadow-sm"
               style={{ height: '100%' }}
@@ -83,12 +83,12 @@ export function CTASection() {
                   >
                     <div>
                       {/* Title */}
-                      <h3 className="font-display text-title text-slate-900 dark:text-white mb-1">
+                      <h3 className="font-display text-title text-slate-900 dark:text-white mb-1 md:whitespace-nowrap">
                         Yêu Cầu Khảo Sát Kỹ Thuật
                       </h3>
                       {/* Subtitle */}
-                      <p className="text-sapo text-slate-600 dark:text-slate-400 leading-relaxed">
-                        Vui lòng gửi thông tin cơ bản của nhà máy dưới đây. Chúng tôi sẽ phản hồi sớm nhất.
+                      <p className="text-sapo text-slate-600 dark:text-slate-400 leading-relaxed md:whitespace-nowrap">
+                        Vui lòng gửi thông tin cơ bản của nhà máy ở dưới đây.
                       </p>
                     </div>
 

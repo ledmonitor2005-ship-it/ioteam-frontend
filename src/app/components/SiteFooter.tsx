@@ -30,10 +30,10 @@ export function SiteFooter() {
       <div className="max-w-[1200px] mx-auto px-4 md:px-6">
 
         {/* Main grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4" style={{ gap: '32px', marginBottom: '36px' }}>
+        <div className="flex flex-col sm:grid sm:grid-cols-2 lg:flex lg:flex-row lg:justify-between lg:items-start" style={{ gap: '32px', marginBottom: '36px' }}>
 
           {/* Col 1: Brand */}
-          <div>
+          <div className="lg:max-w-[280px]">
             <img
               src={logo}
               alt="IoTeamVN — Hệ thống quản lý năng lượng IoT"
@@ -81,9 +81,9 @@ export function SiteFooter() {
           </div>
 
           {/* Col 4: Social + CTA */}
-          <div>
+          <div className="lg:text-right lg:flex lg:flex-col lg:items-end">
             <h4 className="text-eyebrow uppercase text-slate-500 dark:text-slate-400 mb-4 tracking-wider" style={{ transition: 'color 0.3s' }}>Liên hệ nhanh</h4>
-            <div style={{ display: 'flex', gap: '8px', marginBottom: '20px', flexWrap: 'wrap' }}>
+            <div style={{ display: 'flex', gap: '8px', marginBottom: '20px', flexWrap: 'wrap' }} className="lg:justify-end">
               {socials.map((social) => (
                 <a
                   key={social.label}
