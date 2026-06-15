@@ -1,0 +1,150 @@
+{
+  "industries": [
+    {
+      "id": "textiles-spinning",
+      "name": "Dệt may (Textiles & Spinning)",
+      "desc": "Tối ưu hóa các hệ thống chiller làm mát nhà xưởng, rò rỉ máy nén khí và giám sát phụ tải liên tục.",
+      "optimized_departments": [
+        "Hệ thống làm mát (Chiller/Cooling)",
+        "Hệ thống khí nén (Compressed Air)",
+        "Vận hành & Bảo trì phụ tải (O&M chủ động)"
+      ],
+      "projects": [
+        {
+          "name": "Sợi Vinatek Nam Định",
+          "location": "Mỹ Xá, Nam Định",
+          "year": "2023",
+          "savings_metric": "3% chi phí điện phụ tải (~140 triệu VNĐ/năm)",
+          "optimized_system": "Phụ tải sản xuất dệt sợi & O&M chủ động"
+        },
+        {
+          "name": "Dệt Phú Thọ",
+          "location": "KCN Thụy Vân, Phú Thọ",
+          "year": "2024",
+          "savings_metric": "30% điện làm mát xưởng sợi (~1.8 tỷ VNĐ/năm)",
+          "optimized_system": "Hệ thống làm mát nhà xưởng & Baseline tiêu hao năng lượng"
+        },
+        {
+          "name": "Dệt lụa Nam Định",
+          "location": "Mỹ Xá, Nam Định",
+          "year": "2025",
+          "savings_metric": "45% điện khí nén (~240 triệu VNĐ/năm), 0.5% điện nền (~25 triệu VNĐ/năm)",
+          "optimized_system": "Hệ thống khí nén trung tâm & Phụ tải chạy không tải"
+        }
+      ]
+    },
+    {
+      "id": "building-materials",
+      "name": "Sản xuất Vật liệu xây dựng (Building Materials)",
+      "desc": "Tối ưu hóa công suất phản kháng Cos φ nội bộ và suất tiêu hao lò nung ga-điện liên tục.",
+      "optimized_departments": [
+        "Trạm biến áp & Hệ thống điện lực (Cos φ)",
+        "Dây chuyền lò nung ga-điện liên tục",
+        "Tự động lập báo cáo kiểm toán năng lượng"
+      ],
+      "projects": [
+        {
+          "name": "Viglacera Thăng Long",
+          "location": "Phúc Yên, Vĩnh Phúc",
+          "year": "2024",
+          "savings_metric": "3% điện năng toàn nhà máy (~1.3 tỷ VNĐ/năm)",
+          "optimized_system": "Hệ thống điện lực (tránh phạt công suất phản kháng) & Lò nung"
+        }
+      ]
+    },
+    {
+      "id": "food-agriculture",
+      "name": "Chế biến Nông sản & Thực phẩm (Food & Agriculture Processing)",
+      "desc": "Tối ưu hóa phân phối phụ tải điện, kiểm soát quá áp/quá dòng và hỗ trợ lập báo cáo ISO 50001.",
+      "optimized_departments": [
+        "Hệ thống phân phối điện (quá áp, quá dòng trên MCCB)",
+        "Chứng chỉ năng lượng (ISO 50001 / Báo cáo GHG)",
+        "Năng lượng tái tạo tự dùng (Solar áp mái)"
+      ],
+      "projects": [
+        {
+          "name": "Tinh bột sắn Hướng Hóa",
+          "location": "Hướng Hóa, Quảng Trị",
+          "year": "2025",
+          "savings_metric": "1.18 - 2.75 tỷ VNĐ/năm (tiềm năng tiết kiệm tối đa)",
+          "optimized_system": "Hệ thống điện nguồn & Hệ thống quản lý ISO 50001 & Solar áp mái"
+        }
+      ]
+    },
+    {
+      "id": "plastics-packaging",
+      "name": "Hóa chất, Nhựa & Bao bì (Plastics & Packaging)",
+      "desc": "Rà soát điều chỉnh các hệ thống làm mát Chiller dư tải, liên kết chất lượng nguyên liệu và tiêu hao.",
+      "optimized_departments": [
+        "Hệ thống làm mát (Chiller)",
+        "Công đoạn sản xuất (Nguyên liệu đầu vào & năng lượng)"
+      ],
+      "projects": [
+        {
+          "name": "Bao bì bạt nhựa Tú Phương",
+          "location": "Gia Lâm, Hà Nội",
+          "year": "2025",
+          "savings_metric": "40% điện làm mát Chiller (~865 triệu VNĐ/năm)",
+          "optimized_system": "Hệ thống máy làm mát Chiller & Suất tiêu hao theo mẻ sản xuất"
+        }
+      ]
+    },
+    {
+      "id": "buildings-infrastructure",
+      "name": "Tòa nhà & Công trình công cộng (Buildings & Infrastructure)",
+      "desc": "Số hóa dữ liệu phụ tải HVAC điều hòa, hỗ trợ chứng nhận LEED/EDGE cho công trình xanh.",
+      "optimized_departments": [
+        "Hệ thống điều hòa thông gió (HVAC)",
+        "Quản lý năng lượng tòa nhà (Công trình xanh)"
+      ],
+      "projects": [
+        {
+          "name": "Hệ thống điều hòa HUCE",
+          "location": "Hai Bà Trưng, Hà Nội",
+          "year": "2025",
+          "savings_metric": "Giám sát & tối ưu biểu đồ phụ tải điều hòa không khí",
+          "optimized_system": "Hệ thống HVAC / điều hòa không khí"
+        },
+        {
+          "name": "Tòa nhà văn phòng 89-91 Phan Kế Bính",
+          "location": "Quận 1, TP. Hồ Chí Minh",
+          "year": "2023",
+          "savings_metric": "Tối ưu hóa chuẩn công trình xanh EDGE/LEED",
+          "optimized_system": "Hệ thống quản lý năng lượng tòa nhà văn phòng"
+        },
+        {
+          "name": "Trung tâm thiết kế hàng thời trang Vinatex",
+          "location": "Hoàn Kiếm, Hà Nội",
+          "year": "2024",
+          "savings_metric": "Số hóa điện năng văn phòng thi công trong 1 ngày",
+          "optimized_system": "Hệ thống quản lý năng lượng văn phòng"
+        }
+      ]
+    },
+    {
+      "id": "power-grid",
+      "name": "Hạ tầng Điện & Nguồn phát (Electrical Grid & Power Generation)",
+      "desc": "Nâng cao độ tin cậy trạm biến áp, giám sát chất lượng lưới và cảnh báo sự cố thời gian thực.",
+      "optimized_departments": [
+        "Trạm biến áp & Đo lường chất lượng điện năng",
+        "Hệ thống cảnh báo an toàn điện"
+      ],
+      "projects": [
+        {
+          "name": "Trạm biến áp thủy điện Nậm Mô 2",
+          "location": "Xiêng Khoảng, Lào",
+          "year": "2024",
+          "savings_metric": "Số hóa thông số trạm biến áp, thi công trong 3 ngày",
+          "optimized_system": "Hệ thống đo lường chất lượng điện năng trạm"
+        },
+        {
+          "name": "Trạm điện Xã An Mỹ",
+          "location": "Ứng Hòa, Hà Nội",
+          "year": "2026",
+          "savings_metric": "Thí điểm giám sát phụ tải máy biến áp trạm",
+          "optimized_system": "Trạm biến áp phân phối lưới điện lực"
+        }
+      ]
+    }
+  ]
+}

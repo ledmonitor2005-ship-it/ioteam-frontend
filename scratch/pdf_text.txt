@@ -1,0 +1,625 @@
+Giải pháp quản lý, hiệu quả
+sử dụng năng lượng Trụ sở : Số 3 ngõ 220 Bạch Mai, Hai Bà
+Trưng, Hà Nội
+Email: contact@ioteamvn.com
+Liên hệ: (+84) 77 668 5289
+
+-- 1 of 50 --
+
+Tổng quan giải pháp đối với
+khách hàng doanh nghiệp
+
+-- 2 of 50 --
+
+Tổng quan giải pháp
+Giao diện phần mềm
+(sử dụng online)
+Giao diện phần mềm
+(sử dụng nội bộ)
+Cloud
+DCS (Data
+collecting
+systems)
+Thu thập và đóng
+vai trò như
+cơ sở dữ liệu cho
+toàn hệ thống
+Thiết bị giám sát thu thập
+và gửi dữ liệu về DCS
+Các thiết bị bên thứ ba có
+thể tích hợp vào hệ thống
+thông qua thiết bị chuyên
+dụng của IoTeamVN
+Những đồng hồ, thiết bị đo
+có sẵn tại công trình
+
+-- 3 of 50 --
+
+Phần cứng
+Phần cứng – thiết bị giám sát
+Đầy đủ các chủng loại với các khả năng
+đo đơn kênh, nhiều kênh
+Lắp đặt đơn giản, linh hoạt
+Thiết bị phù hợp cả công trình mới và đang sử
+dụng. Không can thiệp vào hiện trạng công trình.
+Không gây gián đoạn sản xuất, kinh doanh trong
+quá trình lắp đặt, đảm bảo thẩm mỹ và an toàn
+`
+Công tơ điện 3
+pha
++
+x6
+x12
+Công tơ điện 3
+pha
+Công tơ điện
+3 pha
+
+-- 4 of 50 --
+
+Phần cứng
+Tuân thủ, đáp ứng tiêu chuẩn
+Thiết bị, hệ thống được thiết kết thuân
+thủ các tiêu chuẩn đo lường, tiêu chuẩn
+công trình xanh và các tiêu chuẩn quản lý
+TCVN 7589 IEC 62053
+Khả năng tích hợp, mở rộng
+Thiết bị có thể hoà vào hệ thống có sẵn hoặc có thể mở rộng các
+thiết bị bên hãng thứ 3 thông qua các chuẩn kết nối. Ngay cả các
+đồng hồ truyền thống chưa có chuẩn kết nối đều có thể lấy dữ
+liệu thông qua thiết bị đọc chỉ số đồng hồ cơ
+
+-- 5 of 50 --
+
+Phần mềm
+Phân tích dữ liệu – Hiển thị & Báo cáo
+Dữ liệu sau khi được thu thập sẽ được xử lý và
+phân tích thành thông tin rõ ràng cho người
+dùng về: cách thức tiêu thụ năng lượng của
+công trình.
+• Dữ liệu được phân tích theo các khung giờ, ngày,
+tuần, tháng, v.v... Từ đó xác định các thời điểm
+tiêu thụ đỉnh và khu vực có tiềm năng tiết kiệm.
+Thông tin được hiển thị trực quan bằng đồ thị,
+bảng biểu giúp người dùng dễ dàng nắm được
+xu hướng sử dụng, chi phí cũng như các thông
+tin quan trọng khác.
+Giao diện phần mềm online – Thông tin giám sát thời gian thực – Báo cáo
+
+-- 6 of 50 --
+
+Phần mềm
+Phân tích dữ liệu – Hiển thị & Báo cáo
+Dữ liệu sau khi được thu thập sẽ được xử lý và
+phân tích thành thông tin rõ ràng cho người
+dùng về: cách thức tiêu thụ năng lượng của
+công trình.
+• Dữ liệu được phân tích theo các khung giờ, ngày,
+tuần, tháng, v.v... Từ đó xác định các thời điểm
+tiêu thụ đỉnh và khu vực có tiềm năng tiết kiệm.
+Thông tin của các hệ thống được hiển thị trực
+quan và tập trung trên cùng một hệ thống bằng
+đồ thị, bảng biểu giúp người dùng dễ dàng nắm
+được tình trạng hoạt động chung của các hệ
+thống, xu hướng sử dụng, cảnh báo sử dụng,
+chi phí cũng như các thông tin quan trọng
+khác.
+Giao diện phần mềm online – Thông tin giám sát tập trung theo thời gian thực
+
+-- 7 of 50 --
+
+Phần mềm
+Phát hiện và cảnh báo sự cố
+Dữ liệu sau khi được thu thập được hệ thống
+phân tích và kiểm tra các sự cố phát sinh. Các
+sự cố bao gồm:
+● Quá điện áp
+● Quá dòng, quá tải
+● ….
+Các sự cố sau khi được phát hiện sẽ được ghi
+nhận và tổng hợp lại cho người sử dụng. Giúp
+người dùng có thể nắm bắt được các sự cố phát
+sinh, sự cố tiềm ẩn trong hệ thống điện để đưa
+ra phương hướng xử lý hợp lý
+Giao diện phần mềm tổng hợp cảnh báo và phân tích sự cố
+
+-- 8 of 50 --
+
+Phần mềm
+Tính năng chuyên dụng – Quy trình quản lý
+theo tiêu chuẩn ISO50001
+Tính năng phục vụ cho tiêu chuẩn quản lý năng
+lượng được xây dựng theo hướng dẫn của Bộ
+Công Thương.
+• Dữ liệu được thu thập và phân tích bám sát theo
+các hướng dẫn được đưa ra
+Thông tin được phân tích và hiển thị dưới dạng
+đồ thị trực quan, rõ dàng và đơn giản. Giúp
+khách hàng phân tích và đánh giá được hiệu
+quả sử dụng năng lượng và kết quả của các giải
+pháp quản lý, nâng cấp được áp dụng
+Giao diện phần mềm chuyên dụng cho hệ thống quản lý ISO50001
+
+-- 9 of 50 --
+
+Phần mềm
+Tính năng chuyên dụng – Quy trình quản lý
+theo tiêu chuẩn ISO50001
+❖ Dễ dàng tích hợp với những dữ liệu thủ công
+▸ Hệ thống được thiết kế phù hợp để có
+thể tích hợp những dữ liệu bên ngoài như
+sản lượng, tiêu thụ của các nguồn năng
+lượng khác hỗ trợ tạo những báo cáo
+chuyên sâu về sản suất
+Giao diện phần mềm chuyên dụng cho hệ thống quản lý ISO50001
+
+-- 10 of 50 --
+
+Tính năng nổi bật
+Giám sát thời gian thực và báo cáo
+tự động
+15kW
+5.1kW
+4kW
+1.1kW	2.4kW
+Phân tích và tối ưu hoá sử dụng năng lượng
+
+-- 11 of 50 --
+
+Tính năng nổi bật
+Dự báo nhu cầu, tiêu thụ
+Xác định hoạt động bất
+thường, lỗi hệ thống
+
+-- 12 of 50 --
+
+Đánh giá hiệu quả sử dụng
+hệ thống
+
+-- 13 of 50 --
+
+Đánh giá tổng quan vận hành hệ thống
+Đánh giá tổng quan tình trạng hoạt động của hệ thống cung cấp năng lượng
+
+-- 14 of 50 --
+
+Ghi nhận, lưu trữ dữ liệu tiêu thụ theo thời gian thực
+• Dữ liệu tiêu thụ điện được
+ghi nhận, hiện thị theo các
+khung giờ và lưu trữ theo
+thời gian thực bắt đầu từ khi
+lắp đặt.
+• Tần suất ghi nhận dữ liệu
+linh hoạt có thể hiển thị dữ
+liệu tới 15 giây 1 điểm
+
+-- 15 of 50 --
+
+ĐIỆN ÁP ĐO ĐƯỢC TRÊN TỦ
+- Dựa trên các đồ thị để đánh giá chất lượng điện năng tại công trình
+Ngưỡng điện áp
+cho phép: 220V + 5%
+Điện áp vượt
+ngưỡng cho phép
+Điện áp trong
+ngưỡng cho phép
+Đánh giá vận hành
+
+-- 16 of 50 --
+
+Chu kỳ vận hành phụ tải
+Phân tích, đánh giá được hoạt
+động của các phụ tải theo thời
+gian hoạt động, chu kỳ hoạt
+động ➔ từ đó đánh giá được
+phụ tải có hoạt động đúng thời
+gian, đúng quy trình hay không.
+2h 2h
+Giai đoạn ổn định
+Giai đoạn
+xuất hiện biến động
+
+-- 17 of 50 --
+
+Phân tích đánh giá dòng năng lượng đầu vào phân bổ đi các phụ tải ra sao
+177392.5 kWh
+31334.8 kWh
+28990.5 kWh
+BIỂU ĐỒ SANDKEY THỂ HIỆN DÒNG NĂNG LƯỢNG
+CỦA PHỤ TẢI
+TỔNG TIÊU THỤ VÀ MỨC PHÁT THẢI
+CO2 TƯƠNG ỨNG
+Phân tích năng lượng đầu vào
+
+-- 18 of 50 --
+
+- Phân tích tỉ trọng tiêu thụ của các phụ tải
+Phân tích các tải tiêu thụ
+Giai đoạn xuất hiện biến động
+Giai đoạn ổn định
+
+-- 19 of 50 --
+
+Đánh giá mức độ tiêu thụ hiệu quả ứng với chi phí theo các khung giờ
+➔ Đánh giá cơ hội tiết kiệm thông qua thay đổi khung giờ vận hành những phụ tải tiêu thụ điện lớn
+CHI PHÍ SỬ DỤNG NĂNG LƯỢNG CỦA CÔNG TRÌNH THEO KHUNG GIỜ SỬ DỤNG ĐIỆN
+Phân tích các tải tiêu thụ
+TỈ TRỌNG CHI PHÍ NĂNG LƯỢNG
+15%
+44%
+41% 693 triệu
+VND
+
+-- 20 of 50 --
+
+Phân tích mức độ ảnh hướng của
+biến sản lượng với hoạt động tiêu thụ
+Khu vực phân bổ
+phần lớn sản
+lượng và tiêu thụ
+→ Giúp làm rõ mối qua hệ giữa sản lượng và tiêu thụ
+→ Chọn điểm làm việc tối ưu của các máy móc trong
+công trình
+
+-- 21 of 50 --
+
+- Đường cơ sở: tham chiếu để so sánh các giai đoạn sử dụng biện pháp tiết kiệm năng lượng
+- Tiêu thụ báo cáo < Cơ sở → Cải thiện hiệu quả năng lượng
+- Tiêu thụ báo cáo > Cơ sở → Năng lượng sử dụng kém hiệu quả
+So sánh tiêu thụ giữa mô hình tiêu thụ cơ sở và giai đoạn báo cáo
+Tiêu thụ cơ sở
+thưc tế
+Đường cơ sở
+Nội suy
+Tiêu thụ báo cáo
+thực tế
+So sánh
+Đánh giá hiệu quả
+Tiêu thụ giai đoạn cơ sở
+Tiêu thụ giai đoạn báo cáo
+
+-- 22 of 50 --
+
+Đường SEC: Thể hiện mối quan hệ giữa tiêu thụ năng lượng và sản lượng
+➔ Từ đó thể hiện được suất tiêu hao năng lượng trên 1 đơn vị sản phẩm
+Đường suất tiêu hao năng lượng (SEC)
+ĐÁNH GIÁ HIỆU QUẢ NĂNG LƯỢNG DỰA TRÊN SEC
+1.5 kWh/kg
+1.3 kWh/kg
+
+-- 23 of 50 --
+
+- CUSUM: Cộng dồn chênh lệch giữa dữ liệu thực tế và dự báo qua thời gian
+- Giá trị dư:
+• Dương: Tiêu thụ vượt dự báo → Sử dụng năng lượng không hiệu quả
+• Âm: Tiêu thụ thấp hơn dự báo → Tiết kiệm năng lượng
+ĐÁNH GIÁ ĐƯỜNG TÍCH LUỸ CUSUM
+Đường tổng tích lũy (CUSCUM)
+
+-- 24 of 50 --
+
+Lợi ích triển khai
+hệ thống giám sát năng lượng
+
+-- 25 of 50 --
+
+Tổng quan
+Tiêu chí Lợi ích chính Ví dụ minh họa
+Kinh tế
+- Tự động hóa, giảm chi phí nhân công
+& báo cáo
+- Chủ động phòng ngừa, giảm thiệt hại
+ngoài kế hoạch
+- Tiết kiệm ~120 triệu đồng/năm, hoàn vốn ~2 năm
+- Giảm rủi ro dừng máy (50–200 triệu đồng/giờ), chi phí sửa
+chữa giảm 30–50%
+Kỹ thuật
+- Kiểm soát hao phí năng lượng
+- Đánh giá hiệu quả TKNL
+- Tích hợp & mở rộng linh hoạt
+- Tiết kiệm 3–5% điện năng- Đánh giá giải pháp (ví dụ: tắt 1
+chiller giảm 20–40% điện)
+- Dễ tích hợp BMS/SCADA/ERP, mở rộng thiết bị
+Môi trường - Giảm phát thải CO₂
+- Đáp ứng công trình xanh & ESG
+- Giảm ~6 tấn CO₂/tháng (tối ưu hệ thống lạnh)
+- Phù hợp EDGE, LOTUS, LEED, ISO 50001
+Quản trị
+- Minh bạch & kiểm soát toàn diện
+- Ra quyết định dựa trên dữ liệu
+- Tuân thủ pháp luật & nâng cao uy tín
+- Theo dõi chi tiết theo máy/khu vực/ca, trực tuyến 24/7
+- Xây dựng KPI năng lượng, dự báo xu hướng
+- Đáp ứng quy định, tăng lợi thế đấu thầu & hình ảnh bền
+vững
+
+-- 26 of 50 --
+
+1. Tự động hóa thay thế ghi chép thủ công
+Giảm đáng kể chi phí nhân công & báo cáo,
+đồng thời đảm bảo dữ liệu liên tục chính xác theo
+thời gian thực, minh bạch
+40 41
+155
+Chi phí
+đầu tư 1 lần
+Chi phí
+lặp lại hàng năm
+Triệu VNĐ
+So sánh chi phí hiện tại &
+chi phí đầu tư giải pháp
+Nhân công ghi chép, nhập liệu
+Làm báo cáo năng lượng
+Hệ thống giám sát QLNL
+50
+100
+150
+200
+250
+Năm 1 Năm 2 Năm 3
+Triệu VNĐ
+Biểu đồ hoàn vốn đầu tư (ROI)
+Chi phí lặp lại hàng năm Chi phí đầu tư 1 lần
+1.9 năm
+
+-- 27 of 50 --
+
+2. Minh bạch & kiểm soát toàn diện
+✓ Ghi nhận & lưu trữ chi tiết: Theo máy, khu vực, ca sản xuất
+✓ Thông tin minh bạch: Lãnh đạo nắm rõ “tiêu thụ ở đâu, lúc nào, bao nhiêu”
+✓ Xóa bỏ mù mờ: Không còn phụ thuộc vào hóa đơn tổng hợp cuối tháng
+✓ Giám sát trực tuyến: Theo dõi qua web/app ở bất kỳ đâu
+
+-- 28 of 50 --
+
+3. Duy trì hiệu quả vận hành liên tục
+Xác định thời điểm vận hành bất thường	Xác định chu kỳ chạy – nghỉ chưa tối ưu
+✓ Giám sát và phát hiện sớm: theo dõi công suất, nhận cảnh báo bất thường kịp thời
+✓ Bảo trì chủ động & duy trì vận hành 24/24: hỗ trợ lập kế hoạch bảo trì, giảm nguy cơ dừng máy đột xuất
+
+-- 29 of 50 --
+
+Sơ đồ quy trình sản xuất Giao diện giám sát
+4. Đánh giá quy trình sản xuất
+- Giám sát thời gian thực, phát hiện tức
+thì sự cố vận hành
+- Tối ưu kế hoạch bảo trì dựa trên dữ
+liệu của hệ thống thiết bị
+- Phân tích dữ liệu sâu để đánh giá tiềm
+năng tiết kiệm thực tế
+- Xác định cơ hội tối ưu hóa quy trình
+
+-- 30 of 50 --
+
+5. Phát hiện cơ hội tiết kiệm năng lượng
+❖ Xác định thời gian chạy không tải, ước lượng chi phí tiết kiệm
+Đồ thị công suất từ ngày 12/06 – 18/06 Đồ thị điện năng từ ngày 12/06 – 18/06
+Nhận xét:
+❑ Ước lượng thời gian chạy không tải 20% - 25% vận hành
+❑ Ước tính năng lượng tiêu thụ 1 năm chạy không tải: 74 000 kWh
+❑ Ước tính chi phí 1 năm chạy không tải: ~ 185 triệu VNĐ/năm
+
+-- 31 of 50 --
+
+6. Nhu cầu và tiêu thụ năng lượng
+- Giám sát tương quan Sản lượng – Năng
+lượng: Theo dõi nhanh xu hướng tiêu thụ
+điện/nhiên liệu theo sản lượng từng tháng
+- Tối ưu chi phí theo khung giờ: Phân tích tỷ
+trọng điện theo giờ (cao điểm – bình thường – thấp
+điểm) để tối ưu lịch sản xuất, giảm chi phí điện
+- Xác định Chỉ số Suất tiêu hao (SEC)
+- Bất thường trong năng lượng tiêu thụ
+Nhiên liệu tiêu thụ
+Điện năng tiêu thụ
+Sản lượng sản xuất
+Chi phí tiêu thụ theo khung giờ
+
+-- 32 of 50 --
+
+7. Phân tích suất tiêu hao & tuân thủ pháp luật
+- Đối chiếu định mức real-time: So sánh tiêu hao năng
+lượng theo ca/tháng với định mức chuẩn ngành
+- Cảnh báo vượt ngưỡng: Phát hiện sớm lãng phí so với
+tiêu chuẩn, hỗ trợ điều chỉnh KPI năng lượng
+- Minh bạch dữ liệu: Sẵn sàng hồ sơ, số liệu chính xác cho kiểm
+toán năng lượng
+- Giảm rủi ro tuân thủ: Tránh vượt định mức, hạn chế nguy cơ
+bị xử phạt/giải trình
+- Tối ưu giá thành: Dùng định mức ngành làm chuẩn để xác
+định và giảm chi phí sản xuất
+Định mức tiêu hao năng lượng do Bộ Công Thương quy định
+Định mức tiêu hao thực tế tại nhà máy
+Suất tiêu hao
+quy định
+Bảo vệ doanh nghiệp
+&
+Chủ động kiểm soát
+
+-- 33 of 50 --
+
+8. Đánh giá hiệu quả giải pháp TKNL
+✓ Trước 06/2025: hệ thống vận hành 2 máy lạnh
+✓ Phân tích dữ liệu giám sát: chỉ cần vận hành 1 máy lạnh, bổ sung tháp giải nhiệt để tăng hiệu
+suất và tắt 1 máy còn lại, vẫn đáp ứng nhu cầu sản xuất
+✓ Kết quả: điện năng tiêu thụ giảm 20–40%, hoàn vốn < 2 tháng
+❖ Giải pháp: lắp đặt thêm tháp giải nhiệt vào hệ thống máy lạnh
+
+-- 34 of 50 --
+
+8. Đánh giá hiệu quả giải pháp TKNL
+Sau khi áp dụng biện pháp (07/2025):
+✓ Điện năng tiêu thụ giảm ~9.000 kWh (~20%) so với 06/2025
+✓ Lượng phát thải CO₂ giảm ~6 tấn trong tháng 7
+❖ Giải pháp: lắp đặt thêm tháp giải nhiệt vào hệ thống máy lạnh
+0
+5
+10
+15
+20
+25
+30
+35
+0
+10
+20
+30
+40
+50
+Tháng 6 Tháng 7
+CO2(tấn)
+Điện năng tiêu thụ (MWh)
+Điện năng tiêu thụ Phát thải CO2
+
+-- 35 of 50 --
+
+9. Hỗ trợ xây dựng báo cáo kiểm toán &
+quản lý năng lượng ISO 50001
+Hỗ trợ kiểm toán năng lượng
+✓ Cung cấp dữ liệu thực tế, liên tục về tiêu thụ năng lượng
+✓ Giúp phát hiện bất thường, xác định cơ hội tiết kiệm
+Hỗ trợ quản lý năng lượng theo ISO 50001
+✓ Theo dõi hiệu quả sử dụng năng lượng theo thời gian
+✓ Là cơ sở để thiết lập, đánh giá và cải tiến các mục
+tiêu năng lượng
+
+-- 36 of 50 --
+
+Một số dự án tiêu biểu
+
+-- 37 of 50 --
+
+Công ty Viglacera Thăng Long
+❖ Lợi ích & kết quả đạt được
+o Phát hiện các bất thường trong hệ thống điện ( kịp thời cảnh báo nhiều
+trường hợp phát ngược công suất phản kháng)
+o Hỗ trợ trích xuất dự liệu báo cáo quản lý năng lượng
+o Giúp nhà máy tiết kiệm 6% tiêu thụ điện ~
+
+-- 38 of 50 --
+
+Nhà máy bao bì bạt nhựa Tú Phương
+❖ Giới thiệu nhà máy
+o Ngành: Sản xuất bao bì bạt nhựa – Hà Nội
+o Quy mô: 12.000 m², DN tiêu thụ NL trọng điểm quốc gia
+o Hạ tầng: tổng công suất trạm điện 2.500 kVA
+
+-- 39 of 50 --
+
+Nhà máy bao bì bạt nhựa Tú Phương
+❖ Lợi ích & kết quả đạt được
+o Giúp nhà máy tiết kiệm 10% tiêu thụ điện ~ 865 triệu VNĐ/năm
+o Hỗ trợ trích xuất dự liệu báo cáo quản lý năng lượng
+o Cắt giảm chi phí nhân công ghi số điện tiêu thụ, tự động toàn bộ
+quá trình giám sát tiêu thụ năng lượng
+o Đánh giá chất lượng nguồn nguyên liệu đầu vào
+
+-- 40 of 50 --
+
+Đối tác, khách hàng
+TỔ CHỨC GIÁO DỤC: TỔ CHỨC PHI CHÍNH PHỦ:
+DOANH NGHIỆP:
+
+-- 41 of 50 --
+
+Giải pháp khách hàng dân dụng
+
+-- 42 of 50 --
+
+Tổng quan giải pháp
+Kiểm kê sử dụng
+điện năng
+Tích hợp Smart Home
+của các hãng
+Quản lý nhu cầu
+phụ tải
+Tiết kiệm
+năng lượng
+
+-- 43 of 50 --
+
+Phần cứng
+Thiết bị giám sát năng lượng
+Cho phép cùng nhiều lộ tải trong công trình
+Thiết kế nhỏ gọn, lắp đặt đơn giản và không
+thay đổi hiện trạng cấp điện
+Giám sát đồng thời
+liệu lộ tải	Kết nối
+không dây
+Tiếp nhận,
+lưu trữ dữ liệu
+Hiển thị dữ liệu
+lên phần mềm
+
+-- 44 of 50 --
+
+Phần cứng
+Các thiết bị điều khiển tích hợp
+Có khả năng tích hợp với nhiều
+dạng thiết bị của nhiều hãng khác
+nhau như mặt công tắc thông
+minh, điều khiển hồng ngoại thông
+minh, loa thông minh
+Máy tính trung tâm
+Trung tâm lưu trữ và điều khiển của toàn
+hệ thống
+Lưu trữ và vận hành toàn hệ thống tại
+chỗ, đảm bảohệ thống hoạt động an
+toàn và ổn định
+
+-- 45 of 50 --
+
+Phần mềm
+Phần mềm
+Giám sát và điều khiển chi tiết, thiết lập linh
+hoạt
+Giám sát chi tiết sử dụng
+điện năng, cảnh báo sự cố
+Điều khiển chi tiết các
+thiết bị trong nhà
+
+-- 46 of 50 --
+
+Tính năng nổi bật
+Quản lý năng lượng Chiến lược vận hành hiệu quả
+
+-- 47 of 50 --
+
+Tính năng nổi bật
+Đáp ứng nhu cầu phụ tải
+(Demand Respond)
+Điều khiển dịch chuyển phụ tải
+
+-- 48 of 50 --
+
+Khách hàng đã triển khai
+• Diện tích 90m2
+• Triển khai các hạng mục:
+phòng họp thông minh, văn
+phòng thông minh, giám sát
+tiêu thụ năng lượng
+Văn Phòng kiến trúc Hà Nội
+• Diện tích 60m2
+• Triển khai các hạng mục điều khiển: điều
+hoà, bình nước nóng, giám sát năng lượng,
+kết hợp với trợ lý ảo google
+Nhà riêng
+• Diện tích 80m2
+• Triển khai các hạng mục điều
+khiển: giám sát năng lượng,
+cảnh báo sự cố
+Nhà chung cư
+
+-- 49 of 50 --
+
+Trụ sở : Số 3 ngõ 220 Bạch Mai, Hai Bà Trưng, Hà Nội
+Email: contact@ioteamvn.com
+Điện thoại: (+84) 77 668 5289
+Hotline: (+84) 96 833 6043
+Website: www.ioteamvn.com
+Trân trọng cảm ơn
+Để có thêm thông tin ,
+Giải đáp câu hỏi, vui lòng liên hệ
+
+-- 50 of 50 --
+

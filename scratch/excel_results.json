@@ -1,0 +1,46 @@
+{
+  "Dự án triển khai ": [
+    {
+      "STT": 1,
+      "Hạng mục": "Hợp đồng cung cấp lắp đặt hệ thống giám sát năng lượng cho nhà máy Viglacera Thăng Long",
+      "Chủ đầu tư": "Công ty Cổ phần Viglacera Thăng Long",
+      "Địa chỉ": "5 QL2A, Phường Phúc Thắng, Phúc Yên, Vĩnh Phúc, Việt Nam",
+      "Lợi ích công trình đạt được": "- Phát hiện các bất thường trong hệ thống điện ( kịp thời cảnh báo nhiều trường hợp phát ngược công suất phản kháng từ đó tránh được hóa đơn phạt từ điện lực)\r\n- Giảm chi phí nhân công thông qua việc tự động hóa quá trình giám sát và theo dõi tiêu thụ năng lượng và làm báo cáo năng lượng nội bộ( tương đương với việc tiết kiệm 112tr/năm).\r\n- Giúp nhà máy tiết kiệm trung bình khoảng 3% (1.3 tỷ VNĐ/năm) chi phí điện năng thông qua việc giám sát, phát hiện lãng phí và tối ưu hóa vận hành.\r\n- Tự động thu thập, lưu trữ và tổng hợp dữ liệu năng lượng theo thời gian thực, giúp đơn giản hóa công tác quản lý năng lượng và rút ngắn thời gian lập các báo cáo phục vụ vận hành, kiểm toán năng lượng.\r\n- Đánh giá suất tiêu hao năng lượng theo từng công đoạn sản xuất, hỗ trợ tối ưu vận hành.\r\n- Cung cấp dữ liệu tin cậy phục vụ quản lý chi phí năng lượng và lập kế hoạch sản xuất."
+    },
+    {
+      "STT": 2,
+      "Hạng mục": "Hợp đồng cung cấp lắp đặt hệ thống giám sát năng lượng cho nhà máy Sợi Vinatek Nam Định",
+      "Chủ đầu tư": "Tập đoàn Dệt May Việt Nam",
+      "Địa chỉ": "C47R+4H9, Mỹ Xá, Nam Định, Việt Nam",
+      "Lợi ích công trình đạt được": "- Giảm chi phí nhân công thông qua việc tự động hóa quá trình giám sát và theo dõi tiêu thụ năng lượng và làm báo cáo năng lượng nội bộ( tương đương với việc tiết kiệm 112tr/năm).\r\n- Hỗ trợ bảo trì chủ động thông qua theo dõi các thông số tiêu thụ điện và tình trạng vận hành của thiết bị. Từ đó ước tính tiết kiệm khoảng 3% mỗi năm( 140 triệu/ năm) chi phí tiêu thụ điện của phụ tải\r\n- Đánh giá suất tiêu hao năng lượng theo từng công đoạn sản xuất, hỗ trợ tối ưu vận hành.\r\n- Phân tích chế độ hoạt động của các phụ tải theo thời gian và chu kỳ vận hành, giúp kiểm soát việc tuân thủ quy trình sản xuất.\r\n- Cung cấp dữ liệu tập trung phục vụ công tác quản lý và tối ưu hóa sử dụng năng lượng."
+    },
+    {
+      "STT": 3,
+      "Hạng mục": "Hợp đồng cung cấp lắp đặt hệ thống giám sát năng lượng cho nhà máy Công ty TNHH dệt phú thọ",
+      "Chủ đầu tư": "Công ty TNHH dệt phú thọ",
+      "Địa chỉ": "Khu công nghiệp Thụy Vân, phường Nông Trang, tỉnh Phú Thọ, Việt Nam",
+      "Lợi ích công trình đạt được": "- Thông qua hệ thống giám sát năng lượng, nhà máy đã xác định được các cơ hội tối ưu hóa hệ thống làm mát, giúp giảm khoảng 30% điện năng tiêu thụ, tương đương khoảng 150 triệu VNĐ/tháng (gần 1,8 tỷ VNĐ/năm).\r\n- Giảm chi phí nhân công thông qua việc tự động hóa quá trình giám sát và theo dõi tiêu thụ năng lượng và làm báo cáo năng lượng nội bộ( tương đương với việc tiết kiệm 120tr/năm).\r\n- Số hóa dữ liệu sản xuất và năng lượng, tạo nguồn dữ liệu tập trung phục vụ công tác quản lý, phân tích và báo cáo.\r\n- Theo dõi suất tiêu hao năng lượng theo từng công đoạn sản xuất, hỗ trợ tối ưu vận hành và kiểm soát chi phí.\r\n- Hỗ trợ đánh giá hiệu quả sử dụng nguyên liệu thông qua phân tích dữ liệu năng lượng và hiệu suất sản xuất."
+    },
+    {
+      "STT": 4,
+      "Hạng mục": "Hợp đồng cung cấp lắp đặt hệ thống giám sát năng lượng cho nhà máy bao bì bạt nhựa Tú Phương",
+      "Chủ đầu tư": "Tập đoàn hóa chất nhựa",
+      "Địa chỉ": " Thôn Phú Thụy, xã Gia Lâm, Tp Hà Nội, Việt Nam",
+      "Lợi ích công trình đạt được": "- Thông qua hệ thống giám sát năng lượng, nhà máy đã phát hiện tình trạng vận hành dư tải của hệ thống làm mát, từ đó triển khai các cải tiến kỹ thuật giúp giảm khoảng 40% điện năng tiêu thụ, tương đương khoảng 865 triệu VNĐ/năm.\r\n- Giảm chi phí nhân công thông qua việc tự động hóa quá trình giám sát và theo dõi tiêu thụ năng lượng và làm báo cáo năng lượng nội bộ( tương đương với việc tiết kiệm 150tr/năm).\r\n- Theo dõi hiệu quả sử dụng năng lượng theo từng công đoạn sản xuất, hỗ trợ tối ưu vận hành và giảm chi phí sản xuất.\r\n- Hỗ trợ đánh giá mối liên hệ giữa chất lượng nguyên liệu đầu vào, năng lượng tiêu thụ và hiệu suất sản xuất, tạo cơ sở cho các quyết định cải tiến quy trình."
+    },
+    {
+      "STT": 5,
+      "Hạng mục": "Hợp đồng cung cấp lắp đặt hệ thống giám sát năng lượng cho nhà máy dệt lụa Nam Định",
+      "Chủ đầu tư": "Công ty cổ phần Dệt lụa Nam Định",
+      "Địa chỉ": "C47R+4H9, Mỹ Xá, Nam Định, Việt Nam",
+      "Lợi ích công trình đạt được": "- Giảm chi phí nhân công thông qua việc tự động hóa quá trình giám sát và theo dõi tiêu thụ năng lượng và làm báo cáo năng lượng nội bộ( tương đương với việc tiết kiệm 85tr/năm).\r\n- Thông qua hệ thống giám sát năng lượng, nhà máy đã xác định được tình trạng quá tải của hệ thống khí nén và triển khai các giải pháp cải tiến, giúp giảm khoảng 45% điện năng tiêu thụ của hệ thống khí nén, tương đương khoảng 240 triệu VNĐ mỗi năm.\r\n- Phát hiện các thiết bị hoặc phụ tải hoạt động không cần thiết, góp phần giảm lãng phí năng lượng. ước tính tiết kiệm khoảng 0.5% điện năng mỗi năm( khoảng 25tr/năm)\r\n- Giảm chi phí nhân công thông qua việc tự động hóa công tác giám sát và theo dõi tiêu thụ năng lượng.\r\n- Theo dõi hiệu quả sử dụng năng lượng theo từng công đoạn sản xuất, hỗ trợ tối ưu vận hành và giảm chi phí sản xuất."
+    },
+    {
+      "STT": 6,
+      "Hạng mục": "Hợp đồng cung cấp lắp đặt hệ thống giám sát năng lượng cho nhà máy tinh bột sắn hướng hóa",
+      "Chủ đầu tư": "Nhà máy tinh bột sắn hướng hóa",
+      "Địa chỉ": "Km3, Xã lìa, Quảng trị, Việt Nam",
+      "Lợi ích công trình đạt được": "- - Giảm chi phí nhân công thông qua việc tự động hóa quá trình giám sát và theo dõi tiêu thụ năng lượng và làm báo cáo năng lượng nội bộ( tương đương với việc tiết kiệm 150tr/năm).\r\n- Theo dõi tiêu thụ năng lượng theo từng khu vực và công đoạn sản xuất, hỗ trợ tối ưu vận hành và giảm chi phí sản xuất.\r\n- Phát hiện hiện tượng quá áp trên hệ thống điện và quả dòng trên MCCB, hỗ trợ nhà máy cải thiện chất lượng điện năng tránh giảm tuổi thọ của phụ tải thiết bị và thiết bị đóng cắt.\r\n- Cung cấp dữ liệu vận hành theo thời gian thực, nâng cao hiệu quả quản lý sản xuất và hỗ trợ triển khai hệ thống quản lý năng lượng ISO 50001. Tiềm năng tiết kiệm chi phí năng lượng khoảng 1,18–2,75 tỷ VNĐ/năm.\r\n- Đề xuất đầu tư hệ thống điện mặt trời áp mái 920 kWp, giúp tiết kiệm khoảng 1.038 MWh điện mỗi năm, với thời gian hoàn vốn dự kiến khoảng 4,3 năm.\r\n"
+    }
+  ]
+}

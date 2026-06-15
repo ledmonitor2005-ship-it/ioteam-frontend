@@ -1,0 +1,344 @@
+Bạn là chuyên gia UI/UX, thiết kế website công nghệ B2B và landing page SaaS hiện đại. Hãy xây dựng một website hoàn chỉnh trên Figma AI cho thương hiệu “IoTeam VN” dựa trên:
+
+File Word “Đề xuất” = dàn ý tổng thể website
+File PDF “Giới thiệu giải pháp giám sát, quản lý hiệu quả năng lượng” = tài liệu chuyên sâu nội dung
+Logo sử dụng từ ảnh logo đã cung cấp
+Banner ưu đãi sử dụng nội dung từ ảnh đính kèm cuối cùng
+
+MỤC TIÊU WEBSITE
+
+Xây dựng hình ảnh doanh nghiệp công nghệ chuyên về:
+Giám sát năng lượng
+Quản lý năng lượng EMS
+ISO 50001
+IoT công nghiệp
+ESG & tiết kiệm năng lượng
+Website hướng tới khách hàng B2B:
+Nhà máy
+Khu công nghiệp
+Doanh nghiệp sản xuất
+Toà nhà thương mại
+Tạo cảm giác:
+“Công nghệ – Dữ liệu – Công nghiệp – AI – Chuyển đổi số năng lượng”
+
+PHONG CÁCH THIẾT KẾ
+
+Modern SaaS + Industrial Tech
+Tối giản nhưng cao cấp
+Responsive desktop/tablet/mobile
+UI giống các startup công nghệ quốc tế
+Layout thoáng, nhiều khoảng trắng
+Có animation nhẹ khi hover/scroll
+Thiết kế chuẩn Figma Auto Layout
+
+TONE MÀU
+
+Dark navy / black technology background
+Electric blue
+Cyan glow
+White
+Accent xanh lá năng lượng
+Có gradient công nghệ nhẹ
+
+FONT
+
+Be Vietnam Pro
+Inter
+Poppins
+
+YÊU CẦU HÌNH ẢNH
+
+Dashboard năng lượng hiện đại
+Nhà máy thông minh
+AI monitoring
+IoT sensor
+EMS analytics
+Data visualization
+Smart industrial monitoring
+Biểu đồ realtime
+Không dùng ảnh stock lỗi thời
+
+CẤU TRÚC WEBSITE
+
+==================================================
+
+HEADER / NAVBAR
+==================================================
+Logo IoTeam VN
+Menu:
+Trang chủ
+Giải pháp
+Tính năng
+Dự án
+Kiến thức
+Về chúng tôi
+Liên hệ
+CTA button:
+“Nhận tư vấn miễn phí”
+
+Yêu cầu:
+
+Sticky navbar
+Glassmorphism nhẹ
+Hover effect hiện đại
+
+Tiêu đề lớn:
+“Chuyển đổi số năng lượng cho doanh nghiệp công nghiệp”
+
+Subheadline:
+“Giám sát – Phân tích – Tối ưu tiêu thụ năng lượng theo thời gian thực bằng nền tảng EMS & AI”
+
+CTA:
+
+Xem demo hệ thống
+Đăng ký tư vấn
+
+Visual:
+
+Dashboard EMS hiện đại
+Nhà máy thông minh
+Overlay chart realtime
+Data floating animation
+
+Hiển thị các badge:
+✓ ISO 50001
+✓ ESG Ready
+✓ Real-time Monitoring
+✓ IoT Platform
+
+Thiết kế dạng card infographic.
+
+Các vấn đề:
+
+Chi phí năng lượng tăng cao
+Không biết điện năng tiêu thụ ở đâu
+Thiếu dữ liệu realtime
+Vận hành thiết bị chưa tối ưu
+Khó đạt ESG / Net Zero
+Báo cáo thủ công mất thời gian
+Không phát hiện sớm bất thường năng lượng
+
+Hiển thị số liệu nổi bật:
+
+Công nghiệp tiêu thụ ~50% năng lượng quốc gia
+Chi phí năng lượng chiếm 15–30% chi phí vận hành
+20–25% thiết bị vận hành không tải gây lãng phí
+
+Thiết kế:
+
+Background dark
+Card glow effect
+Icon hiện đại dạng line icon
+
+Thiết kế section nổi bật giống premium campaign banner.
+
+Nội dung:
+✨ Ưu Đãi Đặc Biệt Dành Riêng Cho Doanh Nghiệp ✨
+
+“Đăng ký triển khai giải pháp cho nhà máy ngay trong giai đoạn thí điểm 3 tháng để nhận ưu đãi giảm giá lên đến 10% chi phí triển khai dự án”
+
+“Chương trình chỉ áp dụng cho các đăng ký trước ngày 30/06/2026”
+
+CTA Button:
+“Nhận Ưu Đãi Ngay”
+
+Yêu cầu thiết kế:
+
+Background gradient vàng nhạt premium
+CTA màu xanh nổi bật
+Shadow mềm
+Typography lớn, hiện đại
+Có sparkle/icon premium
+Section tạo cảm giác conversion mạnh
+
+Chia layout 2 phần:
+
+A. PHẦN CỨNG
+
+Thu thập dữ liệu tự động
+Giám sát điện 24/7
+Kết nối Modbus/BACnet
+IoT gateway
+Edge device
+Smart meter
+
+B. PHẦN MỀM EMS
+
+Dashboard realtime
+Phân tích tiêu thụ năng lượng
+Cảnh báo bất thường
+Theo dõi SEC
+Theo dõi CUSUM
+KPI năng lượng
+Báo cáo ESG
+Quản lý ISO 50001
+
+Visual:
+
+Data flow diagram
+Mockup dashboard SaaS
+IoT network illustration
+
+Thiết kế grid card hiện đại.
+
+Các tính năng:
+
+Real-time monitoring
+SEC analysis
+CUSUM analysis
+Baseline comparison
+Demand response
+AI anomaly detection
+Smart alert
+Energy KPI
+Multi-site management
+Predictive maintenance
+
+Mỗi card:
+
+Icon
+Title
+Short description
+Hover animation
+
+Thiết kế KPI dashboard style.
+
+Hiển thị:
+
+Tiết kiệm 3–10% điện năng
+Hoàn vốn ~2 năm
+Giảm 30–50% chi phí sự cố
+Giảm phát thải CO₂
+Tự động hóa báo cáo
+Giảm chi phí nhân công
+
+Visual:
+
+Animated chart
+KPI counter
+ROI graph
+Energy saving analytics
+
+Hiển thị:
+
+SEC chart
+Baseline comparison
+CUSUM graph
+Energy intensity
+Peak load analysis
+Demand response
+
+Yêu cầu:
+
+UI giống nền tảng analytics AI
+Dark mode dashboard
+Có chart chuyên nghiệp
+
+Project showcase hiện đại.
+
+Các dự án:
+
+Viglacera Thăng Long
+Nhà máy Tú Phương
+Dệt Phú Thọ
+Dệt Nam Định
+
+Mỗi project gồm:
+
+Ảnh nhà máy
+Mô tả ngắn
+Kết quả đạt được
+% tiết kiệm năng lượng
+ROI
+
+Ví dụ:
+“Tiết kiệm 10% điện năng ~ 865 triệu VNĐ/năm”
+
+Timeline hiện đại:
+
+B1. Khảo sát hiện trạng
+B2. Kiểm toán năng lượng
+B3. Thiết kế hệ thống
+B4. Lắp đặt & tích hợp
+B5. Đào tạo vận hành
+B6. Giám sát & tối ưu liên tục
+
+Visual:
+
+Timeline glowing
+Industrial workflow
+Logo slider
+Industrial brands
+Education organizations
+NGO
+
+Thiết kế:
+
+Infinite carousel
+Dark background
+
+Headline:
+“Sẵn sàng chuyển đổi số năng lượng cho doanh nghiệp của bạn?”
+
+Subheadline:
+“Nhận demo hệ thống EMS & tư vấn tối ưu năng lượng miễn phí”
+
+CTA:
+
+Đăng ký tư vấn
+Nhận demo
+
+Fields:
+
+Họ tên
+Công ty
+Email
+Số điện thoại
+Nội dung cần tư vấn
+
+Yêu cầu:
+
+Glassmorphism form
+Modern UX
+Validation
+Conversion optimized
+
+Thông tin:
+
+Địa chỉ:
+Số 3 ngõ 220 Bạch Mai, Hai Bà Trưng, Hà Nội
+Email:
+contact@ioteamvn.com
+Hotline:
+(+84) 96 833 6043
+Website:
+www.ioteamvn.com
+
+Thêm:
+
+Social media
+Google Maps
+Copyright
+Thiết kế như startup SaaS quốc tế
+Không dùng layout doanh nghiệp truyền thống
+Có hiệu ứng glow công nghệ
+Có dashboard mockup thực tế
+Có biểu đồ năng lượng chuyên nghiệp
+Tạo cảm giác AI + IoT + Energy Analytics
+Có nhiều section dark mode
+Ưu tiên khả năng convert khách hàng B2B
+Tự động tạo:
+Layout desktop/mobile
+Component system
+Auto layout
+Design system
+Button variants
+Card variants
+Dashboard widget
+Typography scale
+Color system
+Xuất theo phong cách:
+“Modern Industrial SaaS Dashboard Website”
+Ưu tiên visual:
+“Tesla Energy + Siemens + Notion + Stripe + Industrial IoT”
+Thiết kế premium, hiện đại, công nghệ cao, giống sản phẩm startup AI quốc tế.
