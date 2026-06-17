@@ -53,7 +53,7 @@ export function Problems() {
  <section
  id="challenges"
  style={{
- backgroundColor: 'var(--bg-light-green)',
+ backgroundColor: 'var(--bg-white)',
  padding: '68px 0 51px 0',
 
  position: 'relative',

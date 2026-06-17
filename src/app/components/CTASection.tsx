@@ -22,7 +22,7 @@ export function CTASection() {
   return (
     <section
       id="contact"
-      className="relative bg-[var(--bg-light-green)] py-12 md:py-14 transition-colors duration-300 overflow-hidden"
+      className="relative bg-[var(--bg-white)] py-12 md:py-14 transition-colors duration-300 overflow-hidden"
     >
       <div className="container mx-auto px-4 max-w-6xl" style={{ position: 'relative', zIndex: 1 }}>
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">

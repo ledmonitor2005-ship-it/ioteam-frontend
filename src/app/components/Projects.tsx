@@ -116,7 +116,7 @@ export function Projects() {
       id="projects"
       style={{
         position: 'relative',
-        backgroundColor: 'var(--bg-light-green)',
+        backgroundColor: 'var(--bg-white)',
         padding: '68px 0',
         overflow: 'hidden'
       }}
