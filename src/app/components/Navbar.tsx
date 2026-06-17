@@ -38,23 +38,12 @@ export function Navbar() {
   }, [megaOpen]);
   const [isScrolled, setIsScrolled] = useState(false);
   const [activeSection, setActiveSection] = useState('#');
-  const [theme, setTheme] = useState<'light' | 'dark'>(() => {
-    if (typeof window !== 'undefined') {
-      return document.documentElement.classList.contains('dark') ? 'dark' : 'light';
-    }
-    return 'light';
-  });
-
   useEffect(() => {
-    const root = window.document.documentElement;
-    if (theme === 'dark') {
-      root.classList.add('dark');
-      localStorage.setItem('theme', 'dark');
-    } else {
-      root.classList.remove('dark');
+    if (typeof window !== 'undefined') {
+      window.document.documentElement.classList.remove('dark');
       localStorage.setItem('theme', 'light');
     }
-  }, [theme]);
+  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -104,9 +93,7 @@ export function Navbar() {
     return () => window.removeEventListener('hashchange', handleHashChange);
   }, []);
 
-  const toggleTheme = () => {
-    setTheme((prev) => (prev === 'light' ? 'dark' : 'light'));
-  };
+
 
   return (
     <header
@@ -135,7 +122,7 @@ export function Navbar() {
           <img
             src={logo}
             alt="IoTeamVN — Hệ thống quản lý năng lượng IoT"
-            style={{ height: '25px', width: 'auto', display: 'block', filter: theme === 'dark' ? 'none' : 'invert(0.1)' }}
+            style={{ height: '25px', width: 'auto', display: 'block', filter: 'invert(0.1)' }}
           />
         </a>
 
@@ -237,25 +224,7 @@ export function Navbar() {
 
         {/* Right: CTAs */}
         <div style={{ display: 'flex', alignItems: 'center', gap: '12px', flexShrink: 0, marginLeft: 'auto' }}>
-          {/* Theme Toggle Button */}
-          <button
-            onClick={toggleTheme}
-            style={{
-              background: 'none',
-              border: 'none',
-              cursor: 'pointer',
-              padding: '8px',
-              borderRadius: 'var(--r-xs)',
-              color: 'var(--nav-link)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              transition: 'background-color 0.2s, color 0.2s' }}
-            className="hover:bg-[var(--secondary)] hover:text-[var(--primary)]"
-            aria-label="Toggle theme"
-          >
-            {theme === 'dark' ? <Sun size={18} /> : <Moon size={18} />}
-          </button>
+
 
           <a
             href="#contact"

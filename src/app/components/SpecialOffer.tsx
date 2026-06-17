@@ -3,7 +3,7 @@ import { Sparkles, Calendar } from 'lucide-react';
 
 export function SpecialOffer() {
   return (
-    <section style={{ backgroundColor: 'var(--background)', padding: '68px 0', overflow: 'hidden' }}>
+    <section style={{ backgroundColor: 'var(--bg-white)', padding: '68px 0', overflow: 'hidden' }}>
       <div className="container mx-auto px-4" style={{ position: 'relative', zIndex: 1 }}>
 
         <motion.div

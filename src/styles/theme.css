@@ -11,26 +11,26 @@
 :root {
   /* Bảng màu Nền & Chữ: Chuẩn Slate (Sạch, sắc nét, chống mỏi mắt) */
   --background: #ffffff;
-  --foreground: #0f172a; /* text-slate-900 cho độ tương phản cao */
+  --foreground: #000000; /* text-slate-900 cho độ tương phản cao */
   
   --card: #ffffff;
-  --card-foreground: #0f172a;
+  --card-foreground: #000000;
   
   --popover: #ffffff;
-  --popover-foreground: #0f172a;
+  --popover-foreground: #000000;
   
   /* Nhận diện thương hiệu: Emerald (Xanh ngọc lục bảo) */
   --primary: #047857; /* text-emerald-700 / bg-emerald-700 */
   --primary-foreground: #ffffff;
   
   --secondary: #f1f5f9; /* bg-slate-100 */
-  --secondary-foreground: #0f172a;
+  --secondary-foreground: #000000;
   
   --muted: #f1f5f9;
-  --muted-foreground: #475569; /* text-slate-600 cho Body text */
+  --muted-foreground: #000000; /* text-slate-600 cho Body text */
   
   --accent: #f1f5f9;
-  --accent-foreground: #0f172a;
+  --accent-foreground: #000000;
   
   --destructive: #ef4444; /* red-500 */
   --destructive-foreground: #ffffff;
@@ -50,11 +50,11 @@
   
   /* Sidebar */
   --sidebar: #f8fafc; /* slate-50 */
-  --sidebar-foreground: #0f172a;
+  --sidebar-foreground: #000000;
   --sidebar-primary: #047857;
   --sidebar-primary-foreground: #ffffff;
   --sidebar-accent: #f1f5f9;
-  --sidebar-accent-foreground: #0f172a;
+  --sidebar-accent-foreground: #000000;
   --sidebar-border: #e2e8f0;
   --sidebar-ring: #047857;
 
@@ -95,77 +95,19 @@
   --scroll-thumb-hover: rgba(4, 120, 87, 0.35);
 
   /* Dynamic Text Colors */
-  --text-primary:             #0f172a;
-  --text-secondary:           #475569;
+  --text-primary:             #000000;
+  --text-secondary:           #000000;
 
   /* Alternating section backgrounds */
   --section-bg:               transparent;
   --section-bg-alt:           #f8fafc;
+
+  /* Alternating theme section background variables */
+  --bg-light-green:           #ecfdf5; /* Beautiful light green (emerald-50) */
+  --bg-white:                 #ffffff;
 }
 
-.dark {
-  /* Nền Dark Mode: Slate 950 (Đen sâu, hiện đại) */
-  --background: #020617;
-  --foreground: #f8fafc; /* slate-50 */
-  
-  --card: #0f172a; /* slate-900 */
-  --card-foreground: #f8fafc;
-  
-  --popover: #0f172a;
-  --popover-foreground: #f8fafc;
-  
-  /* Primary trong Dark Mode cần sáng hơn để đảm bảo khả năng đọc */
-  --primary: #10b981; /* emerald-500 */
-  --primary-foreground: #020617;
-  
-  --secondary: #1e293b; /* slate-800 */
-  --secondary-foreground: #f8fafc;
-  
-  --muted: #1e293b;
-  --muted-foreground: #94a3b8; /* text-slate-400 */
-  
-  --accent: #1e293b;
-  --accent-foreground: #f8fafc;
-  
-  --destructive: #7f1d1d; /* red-900 */
-  --destructive-foreground: #f8fafc;
-  
-  --border: #1e293b;
-  --input: #1e293b;
-  --ring: #10b981;
-  
-  --chart-1: #10b981;
-  --chart-2: #34d399;
-  --chart-3: #94a3b8;
-  --chart-4: #cbd5e1;
-  --chart-5: #059669;
-  
-  --sidebar: #020617;
-  --sidebar-foreground: #f8fafc;
-  --sidebar-primary: #10b981;
-  --sidebar-primary-foreground: #020617;
-  --sidebar-accent: #1e293b;
-  --sidebar-accent-foreground: #f8fafc;
-  --sidebar-border: #1e293b;
-  --sidebar-ring: #10b981;
 
-  /* Additional Custom spacing & styling overrides */
-  --input-background:         #1e293b;
-  --hero-bg:                  radial-gradient(circle at center, #020617 0%, #0f172a 100%);
-  --shadow-card: 0 8px 30px rgba(0, 0, 0, 0.45), 0 2px 8px rgba(0, 0, 0, 0.2);
-  --shadow-card-hover: 0 16px 45px rgba(0, 0, 0, 0.55), 0 0 20px rgba(16, 185, 129, 0.06);
-  --shadow-glow: 0 0 20px rgba(16, 185, 129, 0.12);
-  --nav-bg: #020617;
-  --nav-border: #1e293b;
-  --nav-link: #94a3b8;
-  --nav-link-hover: #10b981;
-  --scroll-thumb: rgba(16, 185, 129, 0.3);
-  --scroll-thumb-hover: rgba(16, 185, 129, 0.5);
-  --text-primary:             #f8fafc;
-  --text-secondary:           #94a3b8;
-  --section-bg:               transparent;
-  --section-bg-alt:           #0f172a;
-}
 
 @theme inline {
   --color-card: var(--card);
@@ -226,6 +168,22 @@
 
   * {
     box-shadow: revert;
+  }
+
+  /* Force all standard text to black in light mode, except in Hero section (#home) */
+  html:not(.dark) p:not(#home *),
+  html:not(.dark) span:not(#home *):not(.text-white):not(.text-emerald-400):not(.bg-emerald-600 *):not(.float-card-tag *):not(.sb-btn-primary *):not(.bg-emerald-50 *):not([class*="text-emerald-"]):not([class*="text-white"]):not(.tag-text):not(.tag-icon),
+  html:not(.dark) h1:not(#home *),
+  html:not(.dark) h2:not(#home *),
+  html:not(.dark) h3:not(#home *),
+  html:not(.dark) h4:not(#home *),
+  html:not(.dark) h5:not(#home *),
+  html:not(.dark) h6:not(#home *),
+  html:not(.dark) li:not(#home *),
+  html:not(.dark) input:not(#home *),
+  html:not(.dark) textarea:not(#home *),
+  html:not(.dark) a:not(#home *):not(.text-white):not(.text-emerald-400):not(.bg-emerald-600 *):not(.float-card-tag *):not(.sb-btn-primary *):not(.bg-emerald-50 *):not([class*="text-emerald-"]):not([class*="text-white"]):not(.tag-text) {
+    color: #000000 !important;
   }
 
   body {

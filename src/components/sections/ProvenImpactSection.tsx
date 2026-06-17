@@ -87,7 +87,7 @@ export function ProvenImpactSection() {
  return (
  <section
  aria-labelledby="proven-impact-heading"
- className="relative w-full bg-[#f8fafc] dark:bg-slate-950 transition-colors duration-300 pt-12 pb-12"
+ className="relative w-full bg-[var(--bg-white)] transition-colors duration-300 pt-12 pb-12"
  >
 
  {/* ================================================================

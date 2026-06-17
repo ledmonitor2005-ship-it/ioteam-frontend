@@ -76,7 +76,7 @@ export function TimelineSection() {
   const activeStep = steps[activeIndex];
 
   return (
-    <section id="timeline" className="py-12 md:py-14 bg-slate-50 dark:bg-slate-900/50 transition-colors duration-300">
+    <section id="timeline" className="py-12 md:py-14 bg-[var(--bg-white)] transition-colors duration-300">
       <div className="container mx-auto px-4 md:px-6 max-w-5xl">
 
         {/* Header - ĐỒNG BỘ */}

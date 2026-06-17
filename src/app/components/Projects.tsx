@@ -25,7 +25,7 @@ const projectsData = [
   {
     id: 1,
     image: ImgProject1,
-    title: 'Viglacera Thăng Long',
+    title: 'Công Ty Cổ Phần Viglacera Thăng Long',
     category: 'Vật liệu xây dựng',
     location: 'Phường Phúc Yên, Phú Thọ',
     size: '25,000 m²',
@@ -42,7 +42,7 @@ const projectsData = [
   {
     id: 2,
     image: ImgProject3,
-    title: 'Dệt Phú Thọ',
+    title: 'Công Ty TNHH Dệt Phú Thọ',
     category: 'Sản xuất sợi & dệt may',
     location: 'KCN Thụy Vân, Phú Thọ',
     size: '18,000 m²',
@@ -58,7 +58,7 @@ const projectsData = [
   {
     id: 3,
     image: ImgProject2,
-    title: 'Bao bì bạt nhựa Tú Phương',
+    title: 'Nhà Máy Sản Xuất Bao Bì Bạt Nhựa Tú Phương',
     category: 'Sản xuất bao bì bạt nhựa',
     location: 'Xã Gia Lâm, Hà Nội',
     size: '12,000 m²',
@@ -74,7 +74,7 @@ const projectsData = [
   {
     id: 4,
     image: ImgProject4,
-    title: 'Dệt lụa Nam Định',
+    title: 'Công ty cổ phần Dệt lụa Nam Định',
     category: 'Sản xuất tơ lụa & sợi dệt',
     location: 'Phường Thành Nam, Ninh Bình',
     size: '20,000 m²',
@@ -116,7 +116,7 @@ export function Projects() {
       id="projects"
       style={{
         position: 'relative',
-        backgroundColor: 'var(--section-bg-alt)',
+        backgroundColor: 'var(--bg-light-green)',
         padding: '68px 0',
         overflow: 'hidden'
       }}
@@ -284,6 +284,7 @@ export function Projects() {
                       src={partner.logo}
                       alt={partner.name}
                       className="w-full h-full object-contain transition-all duration-300"
+                      style={{ transform: partner.id === 8 ? 'scale(1.6)' : 'none', transformOrigin: 'center' }}
                     />
                   </div>
                 ))}
@@ -307,6 +308,7 @@ export function Projects() {
                       src={partner.logo}
                       alt={partner.name}
                       className="w-full h-full object-contain transition-all duration-300 cursor-pointer"
+                      style={{ transform: partner.id === 8 ? 'scale(1.6)' : 'none', transformOrigin: 'center' }}
                     />
                   </div>
                 ))}

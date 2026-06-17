@@ -37,7 +37,7 @@ export function PlatformSection() {
  return (
  <section
  id="platform"
- className="relative overflow-hidden py-12 md:py-14 bg-white dark:bg-slate-900 transition-colors duration-300"
+ className="relative overflow-hidden py-12 md:py-14 bg-[var(--bg-light-green)] transition-colors duration-300"
  >
  {/* Ambient neon mesh glow blobs */}
  <div style={{
