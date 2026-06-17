@@ -170,19 +170,19 @@
     box-shadow: revert;
   }
 
-  /* Force all standard text to black in light mode, except in Hero section (#home) */
-  html:not(.dark) p:not(#home *),
-  html:not(.dark) span:not(#home *):not(.text-white):not(.text-emerald-400):not(.bg-emerald-600 *):not(.float-card-tag *):not(.sb-btn-primary *):not(.bg-emerald-50 *):not([class*="text-emerald-"]):not([class*="text-white"]):not(.tag-text):not(.tag-icon),
-  html:not(.dark) h1:not(#home *),
-  html:not(.dark) h2:not(#home *),
-  html:not(.dark) h3:not(#home *),
-  html:not(.dark) h4:not(#home *),
-  html:not(.dark) h5:not(#home *),
-  html:not(.dark) h6:not(#home *),
-  html:not(.dark) li:not(#home *),
-  html:not(.dark) input:not(#home *),
-  html:not(.dark) textarea:not(#home *),
-  html:not(.dark) a:not(#home *):not(.text-white):not(.text-emerald-400):not(.bg-emerald-600 *):not(.float-card-tag *):not(.sb-btn-primary *):not(.bg-emerald-50 *):not([class*="text-emerald-"]):not([class*="text-white"]):not(.tag-text) {
+  /* Force all standard text to black in light mode, except in Hero section (#home) and Footer */
+  html:not(.dark) p:not(#home *):not(footer *),
+  html:not(.dark) span:not(#home *):not(footer *):not(.text-white):not(.text-emerald-400):not(.bg-emerald-600 *):not(.float-card-tag *):not(.sb-btn-primary *):not(.bg-emerald-50 *):not([class*="text-emerald-"]):not([class*="text-white"]):not(.tag-text):not(.tag-icon),
+  html:not(.dark) h1:not(#home *):not(footer *),
+  html:not(.dark) h2:not(#home *):not(footer *),
+  html:not(.dark) h3:not(#home *):not(footer *),
+  html:not(.dark) h4:not(#home *):not(footer *),
+  html:not(.dark) h5:not(#home *):not(footer *),
+  html:not(.dark) h6:not(#home *):not(footer *),
+  html:not(.dark) li:not(#home *):not(footer *),
+  html:not(.dark) input:not(#home *):not(footer *),
+  html:not(.dark) textarea:not(#home *):not(footer *),
+  html:not(.dark) a:not(#home *):not(footer *):not(.text-white):not(.text-emerald-400):not(.bg-emerald-600 *):not(.float-card-tag *):not(.sb-btn-primary *):not(.bg-emerald-50 *):not([class*="text-emerald-"]):not([class*="text-white"]):not(.tag-text) {
     color: #000000 !important;
   }
 
