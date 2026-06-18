@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Send, ShieldCheck, CheckCircle2, MapPin } from 'lucide-react';
+import { Send, CheckCircle2, MapPin } from 'lucide-react';
 import ControlRoomImg from './thicong.png';
 
 export function CTASection() {
@@ -159,11 +159,7 @@ export function CTASection() {
                       Gửi yêu cầu khảo sát kỹ thuật
                     </button>
 
-                    {/* NDA Compliance Caption */}
-                    <div className="flex items-start gap-2 text-caption text-slate-400 dark:text-slate-500 mt-2 select-none">
-                      <ShieldCheck size={14} className="text-emerald-600 dark:text-emerald-500 shrink-0 mt-0.5" />
-                      <span>IoTeamVN cam kết bảo mật tuyệt đối mọi dữ liệu khảo sát phụ tải sản xuất theo thỏa thuận NDA.</span>
-                    </div>
+
 
                   </motion.form>
                 )}
