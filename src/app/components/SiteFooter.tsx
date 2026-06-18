@@ -43,7 +43,7 @@ export function SiteFooter() {
             <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: '8px' }}>
               <li style={{ display: 'flex', gap: '8px', alignItems: 'flex-start' }}>
                 <MapPin size={14} className="text-emerald-600 shrink-0 mt-0.5" style={{ transition: 'color 0.3s' }} />
-                <span className="text-body-sm text-slate-500 dark:text-slate-300" style={{ transition: 'color 0.3s' }}>Số 3 ngõ 220 Bạch Mai, Hai Bà Trưng, Hà Nội</span>
+                <span className="text-body-sm text-slate-500 dark:text-slate-300" style={{ transition: 'color 0.3s' }}>Số 3, Ngõ 220 Bạch Mai, Hà Nội</span>
               </li>
               <li style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
                 <Mail size={14} className="text-emerald-600 shrink-0" style={{ transition: 'color 0.3s' }} />

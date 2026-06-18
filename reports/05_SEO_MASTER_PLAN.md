@@ -144,7 +144,7 @@ Add all blocks inside `<script type="application/ld+json">` tags in `<head>`.
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Số 3 ngõ 220 Bạch Mai",
+    "streetAddress": "Số 3, Ngõ 220 Bạch Mai",
     "addressLocality": "Hai Bà Trưng",
     "addressRegion": "Hà Nội",
     "addressCountry": "VN"
